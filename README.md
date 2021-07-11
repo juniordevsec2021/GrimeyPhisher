@@ -5,10 +5,12 @@ GrimeyPhisher
 
 * This program is only for educational purposes it's a Proof Of Concept.
 ### Description
+![gremeydescription](https://img.shields.io/badge/descrip-tion-green)
 A lite, fast and anonymous tool for phishing and spamming. 
 Send mass spam emails and creates custom links for the phishing pages.
 Works with NGROK and TOR network.
  ### Features
+ ![gremeyfeatures](https://img.shields.io/badge/feat-ures-blue)
 * phishing pages, mass spam, database storage for credentials.
 ### Setup
 ![gremeyinnstall](https://img.shields.io/badge/requirements-setup-brightgreen)
