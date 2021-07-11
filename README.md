@@ -25,6 +25,8 @@ click on the feature you want and copy the link if it is phishing page and distr
 ![grimey2](2.png)
 ![grimey3](3.png)
 
+Want more features? Find something missing in the documentation? Let us know! Please don't hesitate to JUNIORdevSec2021@protonmail.com and we'll get right on it.
+
 ### License
 ```
 GrimeyPhisher - Phishing Framework
@@ -53,5 +55,4 @@ THE SOFTWARE.
 ```
 
 Use this program on your own risk!
-For more phishing pages or bonus features email on: JUNIORdevSec2021@protonmail.com
 
