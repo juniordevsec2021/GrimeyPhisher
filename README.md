@@ -14,7 +14,7 @@ GrimeyPhisher
 * requirements installation: python3 requirements.py
 
 ### Usage
-python3 main.py
+Run python3 main.py in the terminal in the repository folder.
 You will see second tab in the terminal there you need to run TOR with command tor or if your system requires sudo tor.
 The configurations will load. Then run NGROK with command sudo ./ngrok http 5000 and you are ready.
 Copy the https or http NGROK link and paste it in the browser there is your control panel.
