@@ -3,7 +3,7 @@
 * Description:
 * A lite, fast and anonymous tool for phishing and spamming. 
 * Send mass spam emails and creates custom links for the phishing pages.
-* Working with NGROK and TOR network.
+* Works with NGROK and TOR network.
 * Features: phishing pages, mass spam, database storage for credentials.
 * ------------------------------------------------------------------
 * SETUP:
