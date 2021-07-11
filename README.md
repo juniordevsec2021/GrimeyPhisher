@@ -9,7 +9,7 @@ GrimeyPhisher
 * Works with NGROK and TOR network.
 * Features: phishing pages, mass spam, database storage for credentials.
 * ------------------------------------------------------------------
-* SETUP:
+### Setup
 * OS - linux/ubuntu distros.
 * requirements installation: python3 requirements.py
 
