@@ -21,7 +21,6 @@ The configurations will load.
 * Copy the https or http NGROK link and paste it in the browser there is your control panel.
 * Open the same link second time, the first you will use to dump the credentials from the database the second is to
 * click on the feature you want and copy the link if it is phishing page and distribute it to the target.
-*  ------------------------------------------------------------------
 ![grimey](1.png)
 ![grimey2](2.png)
 ![grimey3](3.png)
