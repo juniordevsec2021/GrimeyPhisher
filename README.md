@@ -27,7 +27,7 @@ click on the feature you want and copy the link if it is phishing page and distr
 
 ### License
 ```
-Gophish - Open-Source Phishing Framework
+GrimeyPhisher - Phishing Framework
 
 The MIT License (MIT)
 
