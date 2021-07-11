@@ -1,4 +1,4 @@
-![grimeyphisher logo](https://raw.github.com/juniordevsec2021/GrimeyPhisher/logo.png)
+![grimeyphisher](1.png)
 
 GrimeyPhisher
 =============
