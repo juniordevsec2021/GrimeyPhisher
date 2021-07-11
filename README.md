@@ -13,7 +13,7 @@ GrimeyPhisher
 * OS - linux/ubuntu distros.
 * requirements installation: python3 requirements.py
 
-Usage:
+### Usage
 python3 main.py
 You will see second tab in the terminal there you need to run TOR with command tor or if your system requires sudo tor.
 The configurations will load. Then run NGROK with command sudo ./ngrok http 5000 and you are ready.
