@@ -28,7 +28,7 @@ The configurations will load.
 ![grimey3](3.png)
 
 ### Issues
-![GitHub issues](https://img.shields.io/github/issues-search/juniordevsec2021/GrimeyPhisher?query=bug)
+![gremeyissues](https://img.shields.io/badge/issues-contact-blueviolet)
 Want more features? Find something missing in the documentation? Let us know! Please don't hesitate to JUNIORdevSec2021@protonmail.com and we'll get right on it.
 
 ### License
