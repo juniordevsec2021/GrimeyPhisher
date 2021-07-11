@@ -1,4 +1,5 @@
-# GrimeyPhisher
+GrimeyPhisher
+=============
 ![Build Status](https://github.com/juniordevsec2021/GrimeyPhisher/gophish/workflows/CI/badge.svg)
 * This program is only for educational purposes it's a Proof Of Concept.
 * Description:
