@@ -8,8 +8,7 @@ A lite, fast and anonymous tool for phishing and spamming.
 Send mass spam emails and creates custom links for the phishing pages.
 Works with NGROK and TOR network.
  ### Features
-* * phishing pages, mass spam, database storage for credentials.
-* ------------------------------------------------------------------
+* phishing pages, mass spam, database storage for credentials.
 ### Setup
 * OS - linux/ubuntu distros.
 * requirements installation: python3 requirements.py
