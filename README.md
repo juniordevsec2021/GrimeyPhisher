@@ -3,7 +3,7 @@
 GrimeyPhisher
 =============
 
-![Build Status](https://img.shields.io/appveyor/build/juniordevsec2021/GrimeyPhisher?style=for-the-badge)
+![Build Status](https://img.shields.io/appveyor/build/:juniordevsec2021/:GrimeyPhisher?style=for-the-badge)
 * This program is only for educational purposes it's a Proof Of Concept.
 ### Description
 A lite, fast and anonymous tool for phishing and spamming. 
