@@ -11,6 +11,7 @@ Works with NGROK and TOR network.
  ### Features
 * phishing pages, mass spam, database storage for credentials.
 ### Setup
+![gremeyinnstall](https://img.shields.io/badge/requirements-setup-brightgreen)
 * OS - linux/ubuntu distros.
 * requirements installation: python3 requirements.py
 
