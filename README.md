@@ -17,7 +17,6 @@ The configurations will load. Then run NGROK with command sudo ./ngrok http 5000
 Copy the https or http NGROK link and paste it in the browser there is your control panel.
 Open the same link second time, the first you will use to dump the credentials from the database the second is to
 click on the feature you want and copy the link if it is phishing page and distribute it to the target.
-To see the results open
 *  ------------------------------------------------------------------
 ![grimey](1.png)
 ![grimey2](2.png)
