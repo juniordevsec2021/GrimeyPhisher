@@ -1,4 +1,5 @@
 # GrimeyPhisher
+![example workflow](https://github.com/juniordevsec2021/GrimeyPhisher/actions/workflows/main.py/badge.svg)
 GrimeyPhisher: Open-Source Phishing Toolkit
 * This program is only for educational purposes it's a Proof Of Concept.
 * Description:
