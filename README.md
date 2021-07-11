@@ -1,5 +1,5 @@
 # GrimeyPhisher
-GrimeyPhisher: Open-Source Phishing Toolkit
+![Build Status](https://github.com/gophish/gophish/workflows/CI/badge.svg) [![GoDoc](https://godoc.org/github.com/gophish/gophish?status.svg)](https://godoc.org/github.com/gophish/gophish)
 * This program is only for educational purposes it's a Proof Of Concept.
 * Description:
 * A lite, fast and anonymous tool for phishing and spamming. 
