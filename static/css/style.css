@@ -1,0 +1,273 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+@font-face {
+    src: url('../fonts/Helvetica-Bold.ttf');
+    font-family: 'Helvetica Bold';
+}
+
+@font-face {
+    src: url('../fonts/Helvetica.ttf');
+    font-family: 'Helvetica';
+}
+
+.facebook-header {
+    background: linear-gradient(#4D68A1, #3B5998);
+    overflow: hidden;
+    padding: 10px 0px 4px;
+    border-bottom:  1px solid #133783;
+}
+
+.facebook-header .facebook-container {
+    width: 980px;
+    margin: auto;
+}
+
+.facebook-header .facebook-container .logo-area .logo {
+    height: 36px;
+    width: 171px;
+    background-image: url('../img/3knSmS0yD-3.png');
+    background-position: 0px -249px;
+    margin-top: 16px;
+}
+
+.facebook-header .facebook-container .logo-area {
+    width: 60%;
+    float: left;
+} 
+
+.facebook-header .facebook-container .login-area {
+    width: 40%;
+    float: left;
+} 
+
+.login1 input, 
+.login2 input {
+    display: block;
+    padding:3px  4px;
+    border: 1px  solid #1d2a5b;
+    margin: 5px 0px 0px;
+}
+
+.login1, 
+.login2, 
+.login3 {
+    float: left;
+    margin-right: 10px;
+}
+
+.login1 label , 
+.login2 label {
+    color: #FFF;
+    font-family: 'Helvetica';
+    font-size: 12px;
+}
+
+.login2  a {
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'Helvetica';
+    color: #9cb4d8;
+
+}
+
+.login2  a:hover {
+    text-decoration: underline;
+}
+
+.login3 input {
+    font-size: 12px;
+    font-family: 'Helvetica Bold';
+    background-color: #4267b2;
+    border: 1px solid #29487d;
+    color: #FFF;
+    padding:3px  4px;
+    cursor: pointer;
+    margin-top: 24px;
+    transition: .1s;
+}
+
+.login3 input:hover {
+    background-color: #365899;
+    border-color: #29487d;
+}
+
+/* Facebook body part style start */
+.facebook-body {
+    background: linear-gradient(#FEFEFF, #D4D8E8);
+    overflow: hidden;
+}
+
+.facebook-body .facebook-container {
+    width: 980px;
+    margin: auto;
+}
+
+.facebook-body .facebook-container .body-left {
+    width: 58%;
+    float: left;
+}
+
+.facebook-body .facebook-container .body-left h2 {
+    font-family: 'Helvetica Bold';
+    font-size: 20px;
+    color: #0e385f;
+    font-weight: normal;
+    margin-top: 40px;
+    width: 90%;
+    line-height: 28px;
+}
+
+.facebook-body .facebook-container .body-right {
+    width: 42%;
+    float: left;
+
+}
+
+
+.facebook-body .facebook-container .body-right h1 {
+    font-size: 36px;
+    color: #333333;
+    font-family: 'Helvetica Bold';
+    font-weight: normal;
+    margin-top: 22px;
+}
+
+.facebook-body .facebook-container .body-right h3 {
+    font-family: 'Helvetica';
+    font-weight: normal;
+    color: #1d2129;
+    font-size: 19px;
+    margin: 4px 0px 15px;
+}
+
+
+.facebook-body .facebook-container .body-right .user-reg input {
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 18px;
+    padding: 8px 10px;
+    border: 1px solid #ccd0d5;
+    border-radius: 5px;
+    margin-bottom: 10px; 
+    font-family: 'Helvetica';
+}
+
+.facebook-body .facebook-container .body-right .user-reg input:nth-child(1) {
+    width: 49%;
+}
+
+.facebook-body .facebook-container .body-right .user-reg input:nth-child(2) {
+    width: 49%;
+    float: right;
+}
+
+.facebook-body .facebook-container .body-right .birthday {
+    overflow: hidden;
+}
+
+.facebook-body .facebook-container .body-right .birthday h4 {
+    font-family: 'Helvetica';
+    font-weight: normal;
+    font-size: 18px;
+    color: #1d2129;
+    margin-bottom: 8px;
+    margin-top: 5px;
+}
+
+.facebook-body .facebook-container .body-right .birthday select {
+    padding: 5px;
+    font-size: 13px;
+    border: 1px solid #ccd0d5;
+    float: left;
+}
+
+.facebook-body .facebook-container .body-right .birthday a {
+    text-decoration: none;
+    color: #385898;
+    font-size: 11px;
+    font-family: 'Helvetica';
+    line-height: 16px;
+    display: block;
+    width: 150px;
+    float: left;
+    margin-left: 10px;
+}
+
+.facebook-body .facebook-container .body-right .birthday a:hover {
+    text-decoration: underline;
+}
+
+.facebook-body .facebook-container .body-right .gender {
+    margin: 20px 0px;
+    font-family: 'Helvetica';
+}
+
+
+.facebook-body .facebook-container .body-right .gender input {
+    margin-right: 2px;
+}
+
+.facebook-body .facebook-container .body-right .gender label {
+    font-size: 18px;
+    line-height: 22px;
+    color: #1d2129;
+    vertical-align: top;
+    margin-right: 20px;
+}
+
+.facebook-body .facebook-container .body-right .gender p {
+    margin: 20px 0px;
+    font-size: 11px;
+    color: #777;
+    width: 316px;
+    font-weight: normal;
+    line-height: 15px;
+}
+
+.facebook-body .facebook-container .body-right .gender p a {
+    text-decoration: none;
+    color: #385898;
+}
+
+.facebook-body .facebook-container .body-right .gender p a:hover {
+    text-decoration: underline;
+}
+
+.facebook-body .facebook-container .body-right .signup-button p {
+    margin: 20px 0px;
+    font-size: 13px;
+    color: #666;
+    font-family: tahoma;
+    font-weight: bold;
+}   
+
+.facebook-body .facebook-container .body-right .signup-button p a {
+    text-decoration: none;
+    color: #385898;
+}
+
+.facebook-body .facebook-container .body-right .signup-button p a:hover {
+    text-decoration: underline;
+}
+
+.facebook-body .facebook-container .body-right .signup-button input {
+    background: linear-gradient(#67ae55, #578843);
+    border-color:#3b6e22 #3b6e22 #2c5115;
+    border-width:1px;
+    border-style: solid;
+    box-shadow: inset 0 1px 1px #a4e388;
+    color: #FFF;
+    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+    font-size: 19px;
+    padding: 8px 50px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.facebook-body .facebook-container .body-right .signup-button input:hover {
+    background:  linear-gradient(#79bc64, #578843);
+}

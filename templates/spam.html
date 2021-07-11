@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+body {
+  background-color: #4B0082;
+}
+h1 {
+  background-color: black;
+  text-shadow: 2px 2px #4B0082;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+button {
+  background-color: #7CFC00;
+  border: none;
+  color: black;
+  padding: 14px 40px;;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px
+  
+}
+.button2:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+li {
+  background-color: #7CFC00;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: #4B0082;
+  text-align: left;
+}
+b {
+  text-shadow: 2px 2px black;
+}
+input {
+  background-color: #E0FFFF;
+}
+textarea {
+  background-color: #E0FFFF;
+}
+</style>
+<head>
+<meta charset="UTF-8">
+<title>Grimey Phisher</title>
+</head>
+<body>
+<form action="/" method="post">
+<button type="submit" class="button button2">Back</button>
+</form>
+</br>
+<form action="/start_smtp" method="post">
+</br>
+<input type="password" name="os_pass" id="os_pass" placeholder="User password..">
+<button type="submit" class="button button2">Start SMTP</button>
+</form>
+</br>
+<form action="/stop_smtp" method="post">
+<input type="password" name="os_pass" id="os_pass" placeholder="User password..">
+<button type="submit" class="button button2">Stop SMTP</button>
+</form>
+</br>
+<form action="/spam" method="post">
+<button type="submit" class="button button2">Refresh</button>
+</form>
+</br>
+<center>
+<center><h2>System Messages</h2></center>
+{% for item in data %}
+<b>{{item}}</b>
+</tr>
+{% endfor %}
+</center>  
+</center>
+</br>
+<form action="/mass_spam" method="post">
+<button type="submit" class="button button2" onclick="/spam">Start Spamming</button>
+</br>
+</br>
+<input type="email" name="email_from" id="email_from" placeholder="Sent from..">
+</br>
+</br>
+<input type="text" name="email_subject" id="email_subject" placeholder="Subject..">
+</br>
+</br>
+<input type="text" name="email_list" id="email_list" placeholder="Email list path..">
+</br>
+ 
+</br>
+<textarea type="text" rows="20" cols="100" name="email_message" id="email_message" placeholder="Your message.."></textarea>
+</form>
+<center>
+<h1>Grimey Phisher</h1>
+</br>
+</br>
+</br>
+</br>
+</body>
+</br>
+</br>
+</br>
+<footer>
+<li>-Grimey Phisher 2021-</li>
+</footer>
+</html>
