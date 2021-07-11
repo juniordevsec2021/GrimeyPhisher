@@ -1,7 +1,8 @@
 ![grimeyphisher](logo.png)
-
 GrimeyPhisher
 =============
+ ![gremeyname](https://img.shields.io/badge/Grimey-Phisher-blueviolet)
+
 
 * This program is only for educational purposes it's a Proof Of Concept.
 ### Description
