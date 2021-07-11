@@ -3,7 +3,6 @@
 GrimeyPhisher
 =============
 
-![Build Status](https://img.shields.io/appveyor/build/:juniordevsec2021/:GrimeyPhisher?style=for-the-badge)
 * This program is only for educational purposes it's a Proof Of Concept.
 ### Description
 A lite, fast and anonymous tool for phishing and spamming. 
@@ -31,6 +30,7 @@ The configurations will load.
 Want more features? Find something missing in the documentation? Let us know! Please don't hesitate to JUNIORdevSec2021@protonmail.com and we'll get right on it.
 
 ### License
+[![GitHub license](https://img.shields.io/github/license/juniordevsec2021/GrimeyPhisher?style=for-the-badge)
 ```
 GrimeyPhisher - Phishing Framework
 
