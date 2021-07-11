@@ -1,4 +1,4 @@
-![grimeyphisher](1.png)
+![grimeyphisher](logo.png)
 
 GrimeyPhisher
 =============
