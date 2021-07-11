@@ -7,7 +7,7 @@ GrimeyPhisher
 A lite, fast and anonymous tool for phishing and spamming. 
 Send mass spam emails and creates custom links for the phishing pages.
 Works with NGROK and TOR network.
-* ### Features
+ ### Features
 * * phishing pages, mass spam, database storage for credentials.
 * ------------------------------------------------------------------
 ### Setup
