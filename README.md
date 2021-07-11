@@ -1,4 +1,5 @@
 # GrimeyPhisher
+GrimeyPhisher: Open-Source Phishing Toolkit
 * This program is only for educational purposes it's a Proof Of Concept.
 * Description:
 * A lite, fast and anonymous tool for phishing and spamming. 
