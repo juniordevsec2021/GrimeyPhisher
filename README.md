@@ -16,11 +16,11 @@ Works with NGROK and TOR network.
 ### Setup
 ![gremeyinnstall](https://img.shields.io/badge/requirements-setup-brightgreen)
 * OS - linux/ubuntu distros.
-* requirements installation: python3 requirements.py
+* requirements installation: sudo python3 requirements.py
 
 ### Usage
 ![gremeyusage](https://img.shields.io/badge/usa-ge-green)
-* Run python3 main.py in the terminal in the repository folder.
+* Run sudo python3 main.py in the terminal in the repository folder.
 * You will see second tab in the terminal there you need to run TOR with command tor or if your system requires sudo tor.
 The configurations will load. 
 * Then run NGROK with command sudo ./ngrok http 5000 and you are ready.
