@@ -1,8 +1,7 @@
 import os
 
 
-os.system('sudo apt update && sudo apt-get install python3-pip && pip install pytransform pyarmor  email mime text')
-os.system('sudo apt install tor && sudo apt install proxychains && sudo apt install xdotool && sudo apt install nginx')
+os.system('sudo apt update && sudo apt install python3-pip tor proxychains xdotool nginx build-essential cmake libuv1-dev libssl-dev libhwloc-dev && pip install pytransform pyarmor  email mime text')
 proxychains_conf = '''
 # proxychains.conf  VER 4.x
 #
