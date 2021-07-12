@@ -33,7 +33,7 @@ The configurations will load.
 
 ### Issues
 ![gremeyissues](https://img.shields.io/badge/issues-contact-blueviolet)
-Want more features? Find something missing in the documentation? Let us know! Please don't hesitate to email on JUNIORdevSec2021@protonmail.com and we'll get right on it.
+* Want more features? Find something missing in the documentation? Let us know! Please don't hesitate to email on JUNIORdevSec2021@protonmail.com and we'll get right on it.
 
 ### License
 ![GitHub license](https://img.shields.io/github/license/juniordevsec2021/GrimeyPhisher?style=for-the-badge)
