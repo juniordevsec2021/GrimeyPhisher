@@ -42,7 +42,7 @@ GrimeyPhisher - Phishing Framework
 
 The MIT License (MIT)
 
-Copyright (c) 2013 - 2020 Jordan Wright
+Copyright (c) 2021 Mark Johnson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software ("GrimeyPhisher Community Edition") and associated documentation files (the "Software"), to deal
